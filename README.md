@@ -2,6 +2,10 @@
 
 
 ------------------PATCHED 19.01.2024------------------
+
+
+
+
 a kahoot spammer entering the room with "input +random number"
 
 
